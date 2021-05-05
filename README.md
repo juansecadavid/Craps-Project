@@ -1,4 +1,4 @@
 # Proyecto Craps!
 ## Creadores:
-- David Poasada Restrepo
-- Juan Sebastian Cadavid Carcamo
+- David Poasada Restrepo 😎
+- Juan Sebastian Cadavid Carcamo 😄
